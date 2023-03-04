@@ -1,0 +1,83 @@
+[
+    {
+        "name": "Doctors portal.com",
+        "img": "https://w0.peakpx.com/wallpaper/955/713/HD-wallpaper-doctor-medical.jpg",
+        "link": "https://doctors-portal-client-68db1.web.app/",
+        "ss": [
+            " https://ibb.co/wLVvgt8",
+            "https://ibb.co/b504xqY",
+            "https://ibb.co/9W3JMZR",
+            "https://ibb.co/HLSZXDy"
+        ],
+        "detail": [
+            " ● based on Authentication.",
+            "● responsive for mobile and desktop devices.",
+            "● users can book a doctor from appointment routes.",
+            "● Admin can add or remove a doctors data, and he/she can add any user as admin."
+        ],
+        "tech": [
+            "React JS",
+            "MongoDB",
+            "Express",
+            "Node Js",
+            "tailwind CSS",
+            "DaisyUi",
+            "vercel",
+            "firebase"
+        ]
+    },
+    {
+        "name": "Monitor Dokan.com",
+        "img": "https://oasis.opstatics.com/content/dam/oasis/page/2022/in/product/monitor-e24/assets/kv-banner.jpeg",
+        "link": "https://used-product-client.web.app/",
+        "ss": [
+            "https://ibb.co/1b69X4Y",
+            "https://ibb.co/PcsNGYn",
+            "https://ibb.co/xq9yR5j",
+            "https://ibb.co/hc1f2my",
+            "https://ibb.co/FKGR5Wh"
+        ],
+        "detail": [
+            "● responsive for mobile, tab, and desktop",
+            "● Data accessive differently by user category",
+            "● The seller can add products and is user-controlled by the admin"
+        ],
+        "tech": [
+            "React JS",
+            "MongoDB",
+            "Express",
+            "Node Js",
+            "tailwind CSS",
+            "DaisyUi",
+            "vercel",
+            "firebase"
+        ]
+    },
+    {
+        "name": "Shawrav's learning",
+        "img": "https://c1.wallpaperflare.com/preview/224/215/805/learning-education-word-letters.jpg",
+        "link": "https://shawravs-client.web.app/",
+        "ss": [
+            "https://ibb.co/Fx3qJj4",
+            "https://ibb.co/pfBcFnj",
+            "https://ibb.co/hFWB8Hg",
+            "https://ibb.co/SJ2dzPr",
+            "https://ibb.co/pw3r2L5"
+        ],
+        "detail": [
+            "● responsive for mobile, tab, and desktop",
+            "● user can review any service",
+            "● user can add services"
+        ],
+        "tech": [
+            "React JS",
+            "MongoDB",
+            "Express",
+            "Node Js",
+            "tailwind CSS",
+            "DaisyUi",
+            "vercel",
+            "firebase"
+        ]
+    }
+]
